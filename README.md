@@ -1,7 +1,7 @@
 ### Hey, Cherry291 here! 👋
 <div><div>
 <div align="center">
-  <img align='left' width="50" src="https://metrics.lecoq.io/cherry291?template=classic&config.timezone=Asia%2FShanghai">
+  <img align='left' width="50%" src="https://metrics.lecoq.io/cherry291?template=classic&config.timezone=Asia%2FShanghai">
   <img align="right" src="https://github-readme-stats-ouuan.vercel.app/api?username=cherry291&theme=dark&show_icons=true">
   </div>
 <!--
