@@ -1,8 +1,8 @@
 ### Hi there👋
 <div><div>
 <div align="center">
-  [<img align='left' width="48%" src="https://metrics.lecoq.io/cherry291?template=classic&config.timezone=Asia%2FShanghai">]
-  [<img align="right" width="48%" src="https://github-readme-stats-ouuan.vercel.app/api?username=whalefell&theme=dark&show_icons=true">]
+  <img align='left' width="48%" src="https://metrics.lecoq.io/cherry291?template=classic&config.timezone=Asia%2FShanghai">
+  <img align="right" width="48%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cherry291&theme=dark&show_icons=true">
   </div>
 <!--
 **Cherry291/cherry291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
