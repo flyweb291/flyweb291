@@ -1,9 +1,11 @@
 ### Hey, Cherry291 here! 👋
-<div><div>
-<div>
-  <img align='left' src="https://metrics.lecoq.io/cherry291?template=classic&config.timezone=Asia%2FShanghai">
-  <img align="left" src="https://github-readme-stats-ouuan.vercel.app/api?username=cherry291&theme=dark&show_icons=true">
-  </div>
+
+![](https://metrics.lecoq.io/cherry291?template=classic&config.timezone=Asia%2FShanghai)
+![](https://github-readme-stats-ouuan.vercel.app/api?username=cherry291&theme=dark&show_icons=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **Cherry291/cherry291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
