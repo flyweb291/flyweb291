@@ -5,7 +5,7 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=cherry291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2024%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -34,7 +34,7 @@ DataGrip                 1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 2023/05/26 07:19:25 UTC
+ Last Updated on 2023/05/26 18:33:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
