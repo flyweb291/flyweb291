@@ -21,15 +21,14 @@
 
 ```text
 💬 Programming Languages: 
-Vue.js                   1 hr 13 mins        ████████████████████████░   94.83 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2023/09/13 18:34:41 UTC
+ Last Updated on 2023/09/14 18:34:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
