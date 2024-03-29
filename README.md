@@ -5,7 +5,7 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=cherry291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2042%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -21,14 +21,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               30 mins             ████████████████░░░░░░░░░   65.48 % 
+Vue.js                   10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  46 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2024/03/28 18:34:57 UTC
+ Last Updated on 2024/03/29 18:33:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
