@@ -21,15 +21,14 @@
 
 ```text
 💬 Programming Languages: 
-Vue.js                   0 secs              █████████████████████████   98.72 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2024/05/05 18:40:44 UTC
+ Last Updated on 2024/05/06 18:43:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
