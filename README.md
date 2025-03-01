@@ -52,3 +52,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ ## 其他
+ 
+- 偶像 [雷军](https://weibo.com/u/1749127163)
+- 兄弟 [iot291(飞网物联合伙人)](https://github.com/iot291)
+
+- 👨‍💻 敲代码图一乐    --代码不是工作的全部，还有生活需要热爱
+- 🎥 喜欢拍摄与剪辑  --记录美好生活
