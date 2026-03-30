@@ -5,7 +5,7 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C993%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C000%20hrs%209%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -21,18 +21,18 @@
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 40 mins      ███████████████████████░░   90.76 % 
-TypeScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Other                    29 hrs 34 mins      ██████████████████████░░░   87.81 % 
+YAML                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+TypeScript               1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 🔥 Editors: 
-Chrome                   17 hrs 11 mins      ████████████████░░░░░░░░░   63.24 % 
-Edge                     9 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.44 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Chrome                   22 hrs 59 mins      █████████████████░░░░░░░░   68.25 % 
+Edge                     10 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   31.48 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
- Last Updated on 2026/03/29 19:07:54 UTC
+ Last Updated on 2026/03/30 19:33:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
