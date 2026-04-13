@@ -5,15 +5,15 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C060%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C066%20hrs%2035%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                65 commits          ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-🌆 Daytime                70 commits          ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-🌃 Evening                95 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+🌞 Morning                65 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+🌆 Daytime                71 commits          ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+🌃 Evening                95 commits          ████████░░░░░░░░░░░░░░░░░   33.22 % 
+🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 ```
 
 
@@ -21,16 +21,20 @@
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 54 mins      █████████████████████████   98.63 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Other                    16 hrs 2 mins       ██████████████████████░░░   89.18 % 
+Java                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+GitIgnore file           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 33 mins      ████████████████████░░░░░   81.98 % 
-Edge                     2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Chrome                   12 hrs 7 mins       █████████████████░░░░░░░░   67.44 % 
+Edge                     4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+IntelliJ IDEA            1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 ```
 
 
- Last Updated on 2026/04/12 19:11:52 UTC
+ Last Updated on 2026/04/13 19:46:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
