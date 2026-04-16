@@ -5,7 +5,7 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C078%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C084%20hrs%2043%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -21,21 +21,21 @@
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 1 min        ████████████████████░░░░░   80.05 % 
-Java                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Java Properties          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Vue.js                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Other                    23 hrs 42 mins      █████████████████████░░░░   82.61 % 
+Java                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Java Properties          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Vue.js                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 26 mins      ████████████████░░░░░░░░░   65.72 % 
-Edge                     3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-IntelliJ IDEA            3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-WebStorm                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Chrome                   20 hrs 9 mins       ██████████████████░░░░░░░   70.22 % 
+Edge                     3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+IntelliJ IDEA            3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+WebStorm                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
 
 
- Last Updated on 2026/04/15 19:48:11 UTC
+ Last Updated on 2026/04/16 19:42:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
