@@ -5,37 +5,10 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C084%20hrs%2043%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                65 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌆 Daytime                71 commits          ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-🌃 Evening                95 commits          ████████░░░░░░░░░░░░░░░░░   33.22 % 
-🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C088%20hrs%2036%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    23 hrs 42 mins      █████████████████████░░░░   82.61 % 
-Java                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Java Properties          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Vue.js                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-
-🔥 Editors: 
-Chrome                   20 hrs 9 mins       ██████████████████░░░░░░░   70.22 % 
-Edge                     3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-IntelliJ IDEA            3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-WebStorm                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-```
-
-
- Last Updated on 2026/04/16 19:42:57 UTC
+ Last Updated on 2026/04/17 19:35:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
