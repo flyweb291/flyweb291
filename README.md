@@ -21,16 +21,15 @@
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 59 mins      █████████████████████████   99.98 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    7 hrs 38 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 44 mins       ███████████████░░░░░░░░░░   61.25 % 
-Edge                     4 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.75 % 
+Chrome                   3 hrs 55 mins       █████████████░░░░░░░░░░░░   51.45 % 
+Edge                     3 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.55 % 
 ```
 
 
- Last Updated on 2026/05/05 19:57:08 UTC
+ Last Updated on 2026/05/06 20:08:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
