@@ -5,32 +5,8 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C130%20hrs%2042%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                65 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌆 Daytime                71 commits          ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-🌃 Evening                95 commits          ████████░░░░░░░░░░░░░░░░░   33.22 % 
-🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    15 hrs 33 mins      █████████████████████████   99.02 % 
-Docker                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-
-🔥 Editors: 
-Chrome                   8 hrs 20 mins       █████████████░░░░░░░░░░░░   53.10 % 
-Edge                     7 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.90 % 
-```
-
-
- Last Updated on 2026/05/14 20:12:06 UTC
+ Last Updated on 2026/05/15 19:59:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
