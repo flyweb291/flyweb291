@@ -5,15 +5,15 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C229%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C234%20hrs%2028%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                116 commits         ████████░░░░░░░░░░░░░░░░░   32.49 % 
-🌆 Daytime                86 commits          ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-🌃 Evening                100 commits         ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-🌙 Night                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+🌞 Morning                116 commits         ████████░░░░░░░░░░░░░░░░░   32.40 % 
+🌆 Daytime                87 commits          ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+🌃 Evening                100 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌙 Night                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 ```
 
 
@@ -21,22 +21,22 @@
 
 ```text
 💬 Programming Languages: 
-Other                    33 hrs 7 mins       █████████████████░░░░░░░░   69.32 % 
-Vue                      4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-JavaScript               4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-JSON                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Text                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Other                    32 hrs 29 mins      ████████████████░░░░░░░░░   65.81 % 
+JavaScript               5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Vue                      4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+JSON                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Text                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-Edge                     23 hrs 57 mins      █████████████░░░░░░░░░░░░   50.15 % 
-Chrome                   9 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-Claude Code              6 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-VS Code                  3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-IntelliJ IDEA            3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Edge                     20 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   41.07 % 
+Chrome                   13 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+Claude Code              7 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+VS Code                  4 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+IntelliJ IDEA            4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 ```
 
 
- Last Updated on 2026/06/05 20:22:45 UTC
+ Last Updated on 2026/06/06 19:52:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
