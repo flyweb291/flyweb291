@@ -5,7 +5,7 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C240%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C244%20hrs%205%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -21,22 +21,22 @@
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 46 mins      ██████████████░░░░░░░░░░░   56.91 % 
-JavaScript               5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Vue                      4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-JSON                     2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Text                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Other                    20 hrs 17 mins      ██████████████░░░░░░░░░░░   56.55 % 
+JavaScript               3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Vue                      3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JSON                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Java                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 🔥 Editors: 
-Edge                     14 hrs 2 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Chrome                   10 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-Claude Code              7 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-VS Code                  5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-IntelliJ IDEA            4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Edge                     12 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   34.30 % 
+Chrome                   8 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Claude Code              6 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+VS Code                  4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+IntelliJ IDEA            3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 ```
 
 
- Last Updated on 2026/06/08 20:38:04 UTC
+ Last Updated on 2026/06/09 20:24:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
