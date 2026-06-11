@@ -5,8 +5,6 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C245%20hrs%2057%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -21,22 +19,22 @@
 
 ```text
 💬 Programming Languages: 
-Other                    19 hrs 19 mins      ███████████████████░░░░░░   74.12 % 
-JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Java                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Other                    15 hrs 53 mins      ███████████████████░░░░░░   75.03 % 
+Java                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+JavaScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-Edge                     10 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   40.13 % 
-Chrome                   9 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   35.67 % 
-VS Code                  2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Claude Code              2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-IntelliJ IDEA            1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Edge                     8 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   38.92 % 
+Chrome                   7 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.65 % 
+VS Code                  1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Claude Code              1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+IntelliJ IDEA            1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 
 
- Last Updated on 2026/06/10 21:06:03 UTC
+ Last Updated on 2026/06/11 20:41:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
