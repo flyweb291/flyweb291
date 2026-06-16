@@ -5,7 +5,7 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C255%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C256%20hrs%2047%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -21,21 +21,20 @@
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 55 mins      ██████████████████████░░░   86.10 % 
-Java                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Other                    12 hrs 14 mins      ████████████████████████░   97.13 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Edge                     6 hrs 51 mins       ██████████████░░░░░░░░░░░   54.06 % 
-Chrome                   4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.04 % 
-Claude Code              1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-IntelliJ IDEA            44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Edge                     8 hrs 3 mins        ████████████████░░░░░░░░░   64.01 % 
+Chrome                   4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.13 % 
+IntelliJ IDEA            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 
 
- Last Updated on 2026/06/15 21:29:36 UTC
+ Last Updated on 2026/06/16 21:24:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
