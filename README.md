@@ -5,7 +5,7 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C315%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C324%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -21,22 +21,22 @@
 
 ```text
 💬 Programming Languages: 
-Other                    42 hrs 41 mins      ███████████████████████░░   91.35 % 
-YAML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Bash                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Other                    44 hrs 50 mins      ███████████████████████░░   91.57 % 
+YAML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Bash                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Edge                     27 hrs 9 mins       ███████████████░░░░░░░░░░   58.09 % 
-Chrome                   18 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.32 % 
-VS Code                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Edge                     28 hrs 14 mins      ██████████████░░░░░░░░░░░   57.68 % 
+Chrome                   19 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   40.80 % 
+VS Code                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 
- Last Updated on 2026/07/01 20:21:40 UTC
+ Last Updated on 2026/07/02 19:59:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
