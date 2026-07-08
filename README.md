@@ -21,19 +21,17 @@
 
 ```text
 💬 Programming Languages: 
-Other                    25 hrs 15 mins      ███████████████████████░░   91.09 % 
-Bash                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Other                    16 hrs 56 mins      ███████████████████████░░   93.55 % 
+Bash                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 🔥 Editors: 
-Edge                     13 hrs 55 mins      █████████████░░░░░░░░░░░░   50.23 % 
-Chrome                   13 hrs 40 mins      ████████████░░░░░░░░░░░░░   49.31 % 
-Antigravity CLI          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Edge                     10 hrs 3 mins       ██████████████░░░░░░░░░░░   55.50 % 
+Chrome                   7 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.92 % 
+Antigravity CLI          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 
- Last Updated on 2026/07/07 20:22:47 UTC
+ Last Updated on 2026/07/08 20:00:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
