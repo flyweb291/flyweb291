@@ -5,7 +5,7 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2036%20mins-blue?style=flat)
 
@@ -23,22 +23,42 @@
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 3 mins       ████████████████████████░   97.74 % 
-Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Other                    20 hrs 8 mins       ████████████████████████░   96.93 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Edge                     10 hrs 57 mins      ███████████████████░░░░░░   76.25 % 
-Chrome                   3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Edge                     16 hrs 48 mins      ████████████████████░░░░░   80.92 % 
+Chrome                   3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 8 mins (0.66%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 560,178 Input Tokens, 4,833 Output Tokens
+
+💵 $2.95 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 26 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/08/04 20:07:54 UTC
+ Last Updated on 2026/08/05 20:05:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
