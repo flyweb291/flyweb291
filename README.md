@@ -5,56 +5,12 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2045%20mins-blue?style=flat)
 
-```text
-🌞 Morning                116 commits         ████████░░░░░░░░░░░░░░░░░   32.40 % 
-🌆 Daytime                87 commits          ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-🌃 Evening                100 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-🌙 Night                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2045%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    18 hrs 39 mins      ████████████████████████░   96.69 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-
-🔥 Editors: 
-Edge                     16 hrs 20 mins      █████████████████████░░░░   84.63 % 
-Chrome                   2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 mins (0.71%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 560,178 Input Tokens, 4,833 Output Tokens
-
-💵 $2.95 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 26 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
-
-
- Last Updated on 2026/08/07 00:22:10 UTC
+ Last Updated on 2026/08/07 19:26:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
