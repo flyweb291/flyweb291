@@ -5,10 +5,6 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2026%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2036%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -23,22 +19,22 @@
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 8 mins       ████████████████████████░   96.93 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    18 hrs 39 mins      ████████████████████████░   96.69 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Edge                     16 hrs 48 mins      ████████████████████░░░░░   80.92 % 
-Chrome                   3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Edge                     16 hrs 20 mins      █████████████████████░░░░   84.63 % 
+Chrome                   2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (0.66%)
+⏱ AI Coding Time: 8 mins (0.71%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -58,7 +54,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 2026/08/05 20:05:26 UTC
+ Last Updated on 2026/08/07 00:22:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
