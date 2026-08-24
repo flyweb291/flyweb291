@@ -23,47 +23,42 @@
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 48 mins      ██████████████████░░░░░░░   73.37 % 
-TypeScript               3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-JSON                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-INI                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Other                    8 hrs 11 mins       ██████████████████░░░░░░░   71.05 % 
+TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+JSON                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+INI                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 32 mins      █████████████░░░░░░░░░░░░   52.26 % 
-Edge                     5 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-VS Code                  3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Chrome                   7 hrs 11 mins       ████████████████░░░░░░░░░   62.37 % 
+Edge                     2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+VS Code                  2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 43 mins (18.46%)
+⏱ AI Coding Time: 2 hrs 3 mins (17.8%)
 
 ✍️ 3,807 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,226,507 Input Tokens, 382,937 Output Tokens
+🔤 4,004,609 Input Tokens, 282,113 Output Tokens
 
-💵 $389.98 Estimated AI Cost This Week
+💵 $355.72 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 83 AI Prompts
+🧠 4 AI Sessions, 38 AI Prompts
 
 Deepseek                 3,835 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 646 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 1,283 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/08/23 18:55:44 UTC
+ Last Updated on 2026/08/24 19:09:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
