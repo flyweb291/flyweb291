@@ -5,7 +5,7 @@
 <!-- ![](https://github-readme-stats-ouuan.vercel.app/api?username=flyweb291&theme=dark&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2044%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2048%20mins-blue?style=flat)
 
@@ -23,13 +23,13 @@
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 1 min         █████████████████████░░░░   85.64 % 
-JSON                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Other                    9 hrs 9 mins        ██████████████████████░░░   87.51 % 
+JSON                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 5 mins        ██████████████████████░░░   86.73 % 
-Edge                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Chrome                   7 hrs 18 mins       █████████████████░░░░░░░░   69.84 % 
+Edge                     3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.04 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -39,7 +39,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 2026/08/28 02:15:14 UTC
+ Last Updated on 2026/08/29 01:49:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
